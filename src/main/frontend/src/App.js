@@ -15,8 +15,9 @@ function App() {
 
     function logout() {
         setLoggedIn('');
-    }
 
+
+    }
     return (
         <div>
             <h1>System do zapisów na zajęcia</h1>
